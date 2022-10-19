@@ -1,0 +1,23 @@
+.logo{
+    width: 60px;
+}
+
+.footer{
+    background-color: purple !important;
+}
+
+.midias{
+    width: 100%;
+    color: white;
+    margin: 0 auto;
+}
+
+li{
+    list-style: none;
+    color: white;
+    padding: 5px;
+}
+
+.ig{
+    padding: 2px;
+}

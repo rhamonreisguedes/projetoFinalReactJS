@@ -1,0 +1,32 @@
+.registrar{
+    background-color: purple;
+    border: 1px solid transparent;
+}
+
+.registrar:hover{
+    background-color: white;
+    color: purple;
+    border: 1px solid purple;
+}
+
+.frase{
+    color:purple;
+    font-size: 2rem;
+}
+
+
+.btn-entrar{
+    background-color: white;
+    color: purple;
+    border: 1px solid purple;
+    text-decoration: none;
+    font-size: 1rem;
+    padding: 7px;
+    border-radius: 3px;
+}
+
+.btn-entrar:hover{
+    background-color: purple;
+    border: 1px solid transparent;
+    color: white;
+}

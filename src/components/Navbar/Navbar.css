@@ -1,0 +1,13 @@
+.logo{
+    height: 60px;
+}
+
+.appbar{
+    background-color: purple !important;
+}
+
+@media screen and (max-width: 900px) {
+    .logo {
+      display: none !important;
+    }
+  }
