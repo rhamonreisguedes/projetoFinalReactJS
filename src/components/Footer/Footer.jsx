@@ -17,7 +17,7 @@ export default function Footer() {
         </Grid>
         <Grid item xs={6} style={{ textAlign: 'center' }} className='midias'>
           <div className='ig'>
-            <Link href="instagram.com">
+            <Link to="instagram.com">
               {<InstagramIcon></InstagramIcon>}
             </Link>
           </div>
